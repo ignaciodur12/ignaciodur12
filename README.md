@@ -1,6 +1,6 @@
 # ¡Hola! 👋
 
-Soy [Tu Nombre], un desarrollador apasionado por la tecnología y el desarrollo de software. Me especializo en [tu especialidad], y me encanta trabajar en proyectos relacionados con [tus intereses o áreas de trabajo].
+Soy Ignacio Duran Sanhueza, Hola! Me llamo Ignacio Duran, tengo 25 años, soy de Peñaflor, soy Analista Programador Computacional apasionado por la tecnología y el desarrollo de software, interesado por la calidad de Software y que tan indispensable es en el mundo de la tecnología.
 
 ## 🔧 Tecnologías y Herramientas
 - Lenguajes de programación: JavaScript, Python, Java, etc.
