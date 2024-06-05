@@ -1,31 +1,43 @@
 # ¡Hola! 👋
 
-Soy Ignacio Duran Sanhueza, Hola! Me llamo Ignacio Duran, tengo 25 años, soy de Peñaflor, soy Analista Programador Computacional apasionado por la tecnología y el desarrollo de software, interesado por la calidad de Software y que tan indispensable es en el mundo de la tecnología.
+## Soy Ignacio Duran Sanhueza
 
-## 🔧 Tecnologías y Herramientas
-- Lenguajes de programación: JavaScript, Python, Java, etc.
-- Frameworks: React, Angular, Django, Spring, etc.
-- Herramientas: Git, Docker, Jenkins, etc.
+Hola! Me llamo Ignacio Duran, tengo 25 años y soy de Peñaflor. Soy Analista Programador Computacional apasionado por la tecnología y el desarrollo de software. Estoy interesado en la calidad del software y en lo indispensable que es en el mundo de la tecnología.
 
-## 📈 Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
+---
 
-## 🚀 Proyectos Destacados
-- [Proyecto 1](https://github.com/tu-usuario/proyecto-1): Descripción breve del proyecto 1.
-- [Proyecto 2](https://github.com/tu-usuario/proyecto-2): Descripción breve del proyecto 2.
-- [Proyecto 3](https://github.com/tu-usuario/proyecto-3): Descripción breve del proyecto 3.
+## 🔧 Herramientas
 
-## 📝 Blog
-Me gusta compartir mi conocimiento a través de artículos en mi blog:
-- [Artículo 1](https://enlace-a-tu-blog/articulo-1): Título del artículo 1.
-- [Artículo 2](https://enlace-a-tu-blog/articulo-2): Título del artículo 2.
-- [Artículo 3](https://enlace-a-tu-blog/articulo-3): Título del artículo 3.
+### IDEs y Editores
+- **Visual Studio Code**
+- **IntelliJ**
 
-## 📫 Contacto
+### Herramientas de Pruebas
+- **Postman**
+- **JMeter**
+- **Selenium WebDriver**
+
+### Gestión de Proyectos
+- **Trello**
+
+### Bases de Datos
+- **MySQL**
+
+---
+
+## 🚀 Proyecto Destacado
+
+Puedes ver uno de mis proyectos destacados aquí:
+
+- [NoteTrack](https://github.com/notetrack)
+
+---
+
+## 🌐 Mis Redes Sociales
+
 Puedes encontrarme en:
-- [Twitter](https://twitter.com/tu-usuario)
-- [LinkedIn](https://linkedin.com/in/tu-usuario)
-- [Email](mailto:tu-email@example.com)
+
+- [LinkedIn](https://linkedin.com/in/ignacioduran)
 
 ---
 
