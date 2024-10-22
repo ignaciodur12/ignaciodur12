@@ -35,7 +35,7 @@ Puedes ver uno de mis proyectos destacados aquí:
 
 Puedes encontrarme en:
 
-- [LinkedIn](www.linkedin.com/in/ignacio-durán-sanhueza-3b423326b)
+- [LinkedIn](www.linkedin.com/in/ignacio-durán-sanhueza)
 
 ---
 
