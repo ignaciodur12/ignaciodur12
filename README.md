@@ -2,7 +2,7 @@
 
 ## Soy Ignacio Duran Sanhueza
 
-Hola! Me llamo Ignacio Duran, tengo 25 años y soy de Peñaflor. Soy Analista Programador Computacional apasionado por la tecnología.
+Hola! Me llamo Ignacio Duran, tengo 27 años y soy de Peñaflor. Soy Analista QA.
 ---
 
 ## 🔧 Herramientas
